@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "AppIonicRusia2018", "AppIinicRusia2018\AppIonicRusia2018.jsproj", "{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-AnyCPU = Debug|Windows-AnyCPU
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-AnyCPU = Release|Windows-AnyCPU
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Android.ActiveCfg = Debug|Android
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Android.Build.0 = Debug|Android
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Android.Deploy.0 = Debug|Android
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|iOS.ActiveCfg = Debug|iOS
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|iOS.Build.0 = Debug|iOS
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|iOS.Deploy.0 = Debug|iOS
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-AnyCPU.ActiveCfg = Debug|Windows-AnyCPU
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-AnyCPU.Build.0 = Debug|Windows-AnyCPU
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-AnyCPU.Deploy.0 = Debug|Windows-AnyCPU
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Android.ActiveCfg = Release|Android
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Android.Build.0 = Release|Android
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Android.Deploy.0 = Release|Android
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|iOS.ActiveCfg = Release|iOS
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|iOS.Build.0 = Release|iOS
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|iOS.Deploy.0 = Release|iOS
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-AnyCPU.ActiveCfg = Release|Windows-AnyCPU
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-AnyCPU.Build.0 = Release|Windows-AnyCPU
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-AnyCPU.Deploy.0 = Release|Windows-AnyCPU
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{C170CCCE-D5EE-43D6-9FB1-AF5186335E1E}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFFAB892-9688-4E13-88ED-DA6BBDE4A949}
+	EndGlobalSection
+EndGlobal
